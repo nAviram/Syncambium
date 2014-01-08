@@ -1,0 +1,18 @@
+{
+  "name": "Authentication",
+  "version": "0.0.0",
+  "description": "Authentication Module",
+  "main": "server.js",
+  "dependencies": {
+    "passport": "~0.1.18",
+    "passport-local": "~0.1.6",
+    "connect": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Aviram Netanel",
+  "license": "BSD-2-Clause"
+}
